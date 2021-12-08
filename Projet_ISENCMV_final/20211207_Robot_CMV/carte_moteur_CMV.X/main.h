@@ -35,8 +35,6 @@
 //unsigned char stateRobot;
 void OperatingSystemLoop(void);
 void SetNextRobotStateInAutomaticMode(void);
-//unsigned char nextStateRobot;
-//unsigned char positionObstacle;
 
 #endif	/* MAIN_H */
 
